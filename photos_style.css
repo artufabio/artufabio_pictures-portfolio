@@ -156,6 +156,9 @@ footer{
 	.home-anchor{
 		display: none;
 	}
+	.box-img > img:hover{
+		transform: scale(1); 
+	}
 	footer{
 		font-size: 1.3em;
 	}
