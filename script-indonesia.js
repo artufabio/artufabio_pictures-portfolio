@@ -1,0 +1,1 @@
+alert("Underwater pictures have been taken by my dear friend and buddy diver Brandon Rigter, while diving together around Komodo National Park, Indonesia.");
